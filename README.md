@@ -11,10 +11,8 @@ Sketch of API functionallity: <br/>
 <br/>List of all APIs: <br/>
 ![3](https://user-images.githubusercontent.com/84182964/139597688-3c8b2ae9-1898-40fa-8eab-64bc6a9f560a.png)
 
-# JSON Storage
-All information are stored inside the JSON files located in the server repository.
-
-![4](https://user-images.githubusercontent.com/84182964/139597709-84694fa8-763e-491e-aed3-c0021f232f29.png)
+# Database Storage
+All information are stored inside the SQLite database using Entity Framework Core which is a modern object-database mapper.
 
 # Preview
 ![1](https://user-images.githubusercontent.com/84182964/139597662-b533588e-e525-4468-b435-642d745ff956.png)
