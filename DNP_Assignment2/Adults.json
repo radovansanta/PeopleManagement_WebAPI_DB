@@ -1,0 +1,18 @@
+[
+  {
+    "JobTitle": {
+      "JobTitle": "Student",
+      "Salary": 20000
+    },
+    "Id": 293346,
+    "FirstName": "Radovan",
+    "LastName": "Santa",
+    "HairColor": "brown",
+    "EyeColor": "brown",
+    "Age": 21,
+    "Weight": 74,
+    "Height": 175,
+    "Sex": "M",
+    "ProfileUrl": "https://raw.githubusercontent.com/radovansanta/DNP_Assignment1/master/DNP_Assignment1/Images/ProfileMale.png"
+  }
+]
